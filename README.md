@@ -4,7 +4,7 @@ A comprehensive AI agent platform for freelancers. Manage projects, clients, and
 
 ## 📸 Screenshot
 
-![FreelanceOS Repository](./freelance-agent-os.png)
+
 
 **Start the platform:** Run `python main.py` to begin managing your freelance business.
 
